@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+Flask
+telethon
+Pillow
+requests
+apscheduler
+pytz
